@@ -1,6 +1,6 @@
 # G-Rizer
 
-G-Rizer is a powerful and innovative web application designed to revolutionize the way you manage your emails. With G-Rizer, you can effortlessly extract essential information from lengthy emails and receive concise and coherent summaries, enabling you to stay informed and productive without being overwhelmed by the content. Whether you're a busy professional, a student, or someone who receives numerous emails daily, G-Rizer will become your go-to tool for email management and quick comprehension.
+G-Rizer is a powerful and innovative web application designed to revolutionize the way you manage your emails. With G-Rizer, you can effortlessly extract essential information from lengthy emails and receive concise and coherent summaries, enabling you to stay informed and productive without being overwhelmed by the content. Whether you're a busy professional, a student, or someone who receives numerous emails daily, G-Rizer will become your go-to tool for email management and quick comprehension. 
 
 # Team Members
 1. Krishnapriya Rajeev    -> https://github.com/krishnapriyarajeev
