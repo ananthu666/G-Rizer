@@ -15,15 +15,15 @@ G-Rizer is a powerful and innovative web application designed to revolutionize t
 G-Rizer utilizes the Gmail API to fetch all relevant emails from the specified sender, streamlining the retrieval process.Then the application employs  AI APIs to analyze the content of the fetched email messages, generating concise and meaningful summaries.Users receive the summarized email content in a clear and organized format, presenting key points and essential information for quick comprehension.
 
 # Libraries Used
-flask
-googleapiclient
-google.auth.transport.requests
-google.oauth2.credentials
-google_auth_oauthlib.flow
-base64
-email
-requests
-json
+1.flask
+2.googleapiclient
+3.google.auth.transport.requests
+4.google.oauth2.credentials
+5.google_auth_oauthlib.flow
+6.base64
+7.email
+8.requests
+9.json
 
 # How to configure and Run
 Clone the repo into your system.install required libraries .Set the Gmail api  credentials in the google cloud console,and then download the json file ,rename it as credentials.json ;Place the openai api key in the key field in gmail.py ; Then run the app.py python file in your machine.
