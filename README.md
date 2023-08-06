@@ -9,7 +9,7 @@ G-Rizer is a powerful and innovative web application designed to revolutionize t
 
 # Team Name - JAK_in_CodeS
 
-# Link To Video - [G-Rizer](https://youtu.be/penWCom8_hw)
+# Link To Video - [G-RizeR](https://youtu.be/penWCom8_hw)
 
 # How the tool works
 G-Rizer utilizes the Gmail API to fetch all relevant emails from the specified sender, streamlining the retrieval process.Then the application employs  AI APIs to analyze the content of the fetched email messages, generating concise and meaningful summaries.Users receive the summarized email content in a clear and organized format, presenting key points and essential information for quick comprehension.
