@@ -5,7 +5,7 @@ G-Rizer is a powerful and innovative web application designed to revolutionize t
 # Team Members
 1. Krishnapriya Rajeev    -> https://github.com/krishnapriyarajeev
 2. Ananthu Jayakumar      ->  https://github.com/ananthu666
-3. Jesline rohan james    -> 
+3. Jesline rohan james    -> https://github.com/rohanjrr
 
 # Team Name - JAK_in_CodeS
 
